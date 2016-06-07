@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wacode.yuki.lowaccuracymappingsecond.UI.Setting.SettingRadioDialog.SettingRadioDialogLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:padding="10dp"
+android:layout_marginLeft="@dimen/view_dialog_radio_marginLeft">
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioGroup">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioButton1"
+            android:layout_marginTop="@dimen/view_dialog_radio_marginTop"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioButton2"
+            android:layout_marginTop="@dimen/view_dialog_radio_marginTop"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioButton3"
+            android:layout_marginTop="@dimen/view_dialog_radio_marginTop"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioButton4"
+            android:layout_marginTop="@dimen/view_dialog_radio_marginTop"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioButton5"
+            android:layout_marginTop="@dimen/view_dialog_radio_marginTop"/>
+    </RadioGroup>
+</com.wacode.yuki.lowaccuracymappingsecond.UI.Setting.SettingRadioDialog.SettingRadioDialogLayout>

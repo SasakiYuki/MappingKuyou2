@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="textSize_normal">20sp</dimen>
+
+    <dimen name="view_cardview_padding_leftright">10dp</dimen>
+    <dimen name="view_cardview_padding_topbottom">15dp</dimen>
+    <dimen name="view_cardview_textsize_main">20sp</dimen>
+    <dimen name="view_cardview_textsize_sub">18sp</dimen>
+
+    <dimen name="view_cardview_margin_leftright">16dp</dimen>
+    <dimen name="view_cardview_margin_topbottom">8dp</dimen>
+
+    <dimen name="view_dialog_radio_marginTop">5dp</dimen>
+    <dimen name="view_dialog_radio_marginLeft">20dp</dimen>
+
+    <dimen name="view_log_recycler_marginTop">20dp</dimen>
+    <dimen name="view_log_recycler_marginLeft">10dp</dimen>
+
+    <dimen name="view_map_dialog_marginLeft">20dp</dimen>
+    <dimen name="view_map_dialog_marginTop">40dp</dimen>
+    <dimen name="view_map_dialog_textSize_title">30sp</dimen>
+    <dimen name="view_map_dialog_textSize_main">50sp</dimen>
+    <dimen name="view_map_dialog_text_padding">10dp</dimen>
+    <dimen name="view_map_dialog_date_margin">5dp</dimen>
+
+</resources>

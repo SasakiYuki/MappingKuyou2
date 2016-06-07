@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">マップ</string>
+
+    <string name="title_setting">各種設定</string>
+
+    <string name="type_setting_frequency">データ取得の頻度</string>
+    <string name="type_setting_accuracy">データ取得の精度（広さ）</string>
+    <string name="type_setting_color">色</string>
+    <string name="type_setting_reset">データのリセット期間</string>
+    
+    <string name="setting_completed">設定中</string>
+
+    <string name="prefKey_frequency">pref_frequency</string>
+    <string name="prefKey_accuracy">pref_accuracy</string>
+    <string name="prefKey_color">pref_color</string>
+    <string name="prefKey_reset">pref_reset</string>
+
+    <string name="prefKey_s_frequency">pref_s_frequency</string>
+    <string name="prefKey_s_accuracy">pref_s_accuracy</string>
+    <string name="prefKey_s_color">pref_s_color</string>
+    <string name="prefKey_s_reset">pref_s_reset</string>
+
+    <string name="setting_color_red">赤</string>
+    <string name="setting_color_green">緑</string>
+    <string name="setting_color_blue">青</string>
+    <string name="setting_color_yellow">黄</string>
+    <string name="setting_color_purple">紫</string>
+
+    <string name="setting_time_5hour">5時間毎</string>
+    <string name="setting_time_3hour">3時間毎</string>
+    <string name="setting_time_2hour">2時間毎</string>
+    <string name="setting_time_1hour">1時間毎</string>
+    <string name="setting_time_30min">30分毎</string>
+
+    <string name="setting_area_morewide">大雑把（くそ広い)</string>
+    <string name="setting_area_wide">雑把（広い）</string>
+    <string name="setting_area_normal">普通</string>
+    <string name="setting_area_narrow">正確（狭い）</string>
+    <string name="setting_area_morenarrow">くそ正確(くそ狭い)</string>
+
+    <string name="setting_data_day">１日おき</string>
+    <string name="setting_data_week">１週間おき</string>
+    <string name="setting_data_month">１か月おき</string>
+    <string name="setting_data_mylife">一生</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="menu_setting">各種設定</string>
+    <string name="menu_histoy">ヒストリー</string>
+
+    <string name="map_dialog_title">何日から何日まで？</string>
+    <string name="map_dialog_start">始まりの日付</string>
+    <string name="map_dialog_end">終わりの日付</string>
+    <string name="map_dialog_year">年</string>
+    <string name="map_dialog_month">月</string>
+    <string name="map_dialog_date">日</string>
+    <string name="map_dialog_button">セット</string>
+    <string name="map_dialog_normal">通常状態に戻す</string>
+    <string name="map_dialog_cancel">キャンセル</string>
+
+    <string name="notification_text">位置情報を取得しなおしてください</string>
+</resources>

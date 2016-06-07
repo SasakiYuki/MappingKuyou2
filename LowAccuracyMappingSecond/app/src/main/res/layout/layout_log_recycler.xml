@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wacode.yuki.lowaccuracymappingsecond.UI.Log.LogRecyclerLayout.LogRecyclerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/view_log_recycler_marginTop"
+    android:layout_marginRight="@dimen/view_log_recycler_marginTop"
+    android:layout_marginBottom="@dimen/view_log_recycler_marginTop">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_sub_date"
+            android:gravity="center"
+            android:text="18"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_sub_week"
+            android:gravity="center"
+            android:text="Fri"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="8"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+</com.wacode.yuki.lowaccuracymappingsecond.UI.Log.LogRecyclerLayout.LogRecyclerLayout>
